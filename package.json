@@ -1,0 +1,14 @@
+{
+  "name": "test-chrome-auto",
+  "version": "1.0.0",
+  "description": "testing-web-automation-on-chrome",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark 4",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
